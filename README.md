@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+THis Project is my first project it is with getx state managment and has no clean architecture
 
 A few resources to get you started if this is your first Flutter project:
 
